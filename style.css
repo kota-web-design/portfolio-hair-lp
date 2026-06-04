@@ -85,7 +85,6 @@ body.menu-open {
   margin-left: 20px;
 }
 
-/* セクションにリズム */
 .section:nth-of-type(even){
   background:#0f0f0f;
 }
@@ -137,7 +136,6 @@ body.menu-open {
   opacity: 0.7;
 }
 
-/* ===== 現在地ハイライト ===== */
 .header-list a.active {
   opacity: 1;
   position: relative;
